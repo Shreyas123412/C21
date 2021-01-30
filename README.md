@@ -1,2 +1,2 @@
-# C21
-lolipop
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
